@@ -18,14 +18,14 @@
 | 9324 | 342 | 88 | 'kangaroo' | 69 | .60 |
 | 9324 | 342 | 88 | 'Ginger Ale' | 20 | .17 |
 
-Tree #1600 has
+1. Tree #1600 has
 * {'rat', 10, .9}
 * { 'Squirrel', 32, .87}
 * {'bat', 15, .5}
-Tree #420 has 
+2. Tree #420 has 
 * {'snake' | 72 | .8}
 * {'weed' | 32 | .33}
-Tree #9324 has
+3. Tree #9324 has
 * {'bird', 11, .001}
 * { 'vole', 1, .55}
 * {'kangaroo', 69, .60 }
